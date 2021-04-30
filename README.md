@@ -2,7 +2,7 @@
 
 | Week | Videos | Tutorial sheet | Workshop task |
 |--|--|--|--|
-| Week 1: Getting started with Python <ul><li>Introduction: Python and Jupyter</li> <li>Variables and objects</li> <li>Basic object types: int, float, str, bool</li></ul>|<ol><li>["Python Programming"?...](https://media.ed.ac.uk/media/1_9c3vbwdq)</li><li>[How to get the Week 1 tutorial sheet](https://media.ed.ac.uk/media/1_yqm0ehh2)</li><li>[Python basics: print(), variables, and objects](https://media.ed.ac.uk/media/1_ukwic4aj)</li></ol>| [Tutorial sheet](https://github.com/pypr-2021/w01-tutorial) | [Pair programming](https://github.com/pypr-2021/pp-w01-workshop) |
+| **Week 1: Getting started with Python** <ul><li>Introduction: Python and Jupyter</li> <li>Variables and objects</li> <li>Basic object types: int, float, str, bool</li></ul>|<ol><li>["Python Programming"?...](https://media.ed.ac.uk/media/1_9c3vbwdq)</li><li>[How to get the Week 1 tutorial sheet](https://media.ed.ac.uk/media/1_yqm0ehh2)</li><li>[Python basics: print(), variables, and objects](https://media.ed.ac.uk/media/1_ukwic4aj)</li></ol>| [Tutorial sheet](https://github.com/pypr-2021/w01-tutorial) | [Pair programming](https://github.com/pypr-2021/pp-w01-workshop) |
 
 
 ### Week 2: Lists, loops, and functions
